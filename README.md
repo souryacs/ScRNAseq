@@ -16,9 +16,13 @@ Scripts (folders)
 
 	Individual folders contain separate README files for detailed descriptions.
 
+	Scrublet:
+
+		Running Scrublet (https://github.com/swolock/scrublet) to detect doublets from scRNA-seq data.
+
 	Pipeline:
 
-		Seurat pipeline to process scRNA-seq data. The input is a folder contain the genes and the count matrices, obtained from CellRanger.
+		Seurat pipeline to process scRNA-seq data. The input is a folder containing the genes and the count matrices, obtained from CellRanger.
 
 	ViolinPlots:
 
@@ -69,6 +73,10 @@ Scripts (folders)
 	BD_Rhapsody_Kallisto:
 
 		Scripts to analyze scRNA-seq data generated from BD Rhapsody protocol, using Kallisto.
+
+	scVelo:
+
+		RNA velocity analysis of scRNA-seq data, using the package scVelo (https://scvelo.readthedocs.io/en/stable/)
 
 
 
