@@ -58,6 +58,10 @@ Scripts (folders)
 			- Pipeline for processing BCR data and plotting relevant metrics using a combination of Immcantation and Immunarch pipelines. 
 			- Details are provided in the corresponding README file.
 
+	BD_Rhapsody_Kallisto:
+
+		Scripts to analyze scRNA-seq data generated from BD Rhapsody protocol, using Kallisto.
+
 
 
 Queries
