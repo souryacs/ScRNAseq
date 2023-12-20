@@ -45,6 +45,10 @@ Scripts (folders)
 		Ridge plot using Seurat object, for specific genes and antibodies.
 		Here we showed examples of antibodies, using CITE-seq data as an example.
 
+	DiffAbundance_MILO:
+
+		Differential abundance (DA) analysis using Milo. Package: https://marionilab.github.io/miloR/articles/milo_demo.html
+
 
 
 Queries
