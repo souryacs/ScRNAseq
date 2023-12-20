@@ -49,11 +49,13 @@ Installation Requirements
 Output Files
 ============
 
-	Two important output files:
+	For the first script (*GeneSignaturePlot.r*), following output files are generated.
 
 		a) Signature_Score.txt: Cell-specific signature scores.
 
 		b) Gene_Signature.pdf: UMAP plot of signature scores.
+
+	For the script *Gene_Signature_ANS.r*, output plot file names are mentioned within the script itself (user can edit them, if needed).
 
 Queries
 =======
