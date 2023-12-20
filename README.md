@@ -58,6 +58,14 @@ Scripts (folders)
 			- Pipeline for processing BCR data and plotting relevant metrics using a combination of Immcantation and Immunarch pipelines. 
 			- Details are provided in the corresponding README file.
 
+		- MixCR:
+
+			- Using MixCR (https://github.com/milaboratory/mixcr), scripts to process the BCR and TCR datasets.
+
+			- Recommended (compared to Immcantation) since MixCR is more easy to use, provide various QC and performance summaries, and supports multiple biological assays.
+
+			- These output files can be readily used in Immunarch as well.
+
 	BD_Rhapsody_Kallisto:
 
 		Scripts to analyze scRNA-seq data generated from BD Rhapsody protocol, using Kallisto.
